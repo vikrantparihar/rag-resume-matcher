@@ -1,0 +1,4 @@
+AI Engineer: Python, Machine Learning, Deep Learning, NLP
+Data Scientist: Python, Statistics, SQL, ML
+Backend Developer: Node.js, APIs, Databases
+Frontend Developer: React, HTML, CSS, JavaScript
